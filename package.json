@@ -1,0 +1,30 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "This example app is so easy.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naryu/node-example.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "naryu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naryu/node-example/issues"
+  },
+  "homepage": "https://github.com/naryu/node-example",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.1.1"
+  },
+  "engines": {
+	  "node": "0.10.x"
+  }
+}
